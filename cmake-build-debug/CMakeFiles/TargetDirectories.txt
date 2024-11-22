@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/TASK 1 GRADE CLASSIFICATUION/cmake-build-debug/CMakeFiles/TASK_1_GRADE_CLASSIFICATUION.dir
+C:/Users/pc/CLionProjects/TASK 1 GRADE CLASSIFICATUION/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/TASK 1 GRADE CLASSIFICATUION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
